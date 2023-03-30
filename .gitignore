@@ -1,2 +1,4 @@
 ./lab*/kernel*
 ./lab*/build
+*.img
+ref_*/
