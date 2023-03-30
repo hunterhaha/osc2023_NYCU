@@ -2,3 +2,4 @@
 ./lab*/build
 *.img
 ref_*/
+.vscode/
